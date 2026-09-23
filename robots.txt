@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://solucioneselectricasem.github.io/soluciones-electricas-em/sitemap.xml
